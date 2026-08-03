@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212225040251
 # Name: MOHAMMED SHAMEER M
-# Date: 
+# Date: 3/8/26
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1917" height="1078" alt="Screenshot 2026-07-25 141423" src="https://github.com/user-attachments/assets/352f0df1-658e-4307-8327-b18194fcb1b4" />
 
 
 
@@ -67,6 +68,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+<img width="1917" height="1078" alt="Screenshot 2026-07-27 110420" src="https://github.com/user-attachments/assets/46448b48-4902-4724-9d5c-f229af6d8732" />
 
 
 
