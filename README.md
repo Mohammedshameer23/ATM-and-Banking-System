@@ -69,7 +69,6 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1917" height="1078" alt="Screenshot 2026-07-27 110420" src="https://github.com/user-attachments/assets/46448b48-4902-4724-9d5c-f229af6d8732" />
 
 
 
@@ -90,6 +89,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1920" height="1080" alt="Screenshot 2026-08-03 113440" src="https://github.com/user-attachments/assets/eacec13b-c884-472d-9363-94353964587f" />
+
 
 
 
@@ -108,6 +109,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
+<img width="1917" height="1078" alt="Screenshot 2026-07-27 110420" src="https://github.com/user-attachments/assets/46448b48-4902-4724-9d5c-f229af6d8732" />
 
 
 
