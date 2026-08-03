@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040251
+# Name: MOHAMMED SHAMEER M
+# Date: 
 
 
 # AIM:
